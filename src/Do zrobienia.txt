@@ -1,0 +1,12 @@
+ komponent rodzic App
+ Komponent input do wprowadzania nowych rzeczy na listę
+ komponent z nowym elementem
+ komponent delete button 
+
+     ==> ListInput
+App 
+     ==>  NewItem ==> DeleteButton
+
+     SCHEMAT. Po wprowadzeniu wartości w listInput i naciśnieciu submit wartość z pola input powinna dodać się w postaci
+     komponentu nowego ELementu na liście a ten komponent powinien zwrócić komponent przycisku usuwania danego elemntu.
+     
